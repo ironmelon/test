@@ -1,1 +1,3 @@
 Hello GIT!!!
+This second commit!!! 
+I hope that in this time files will transitioning to repository!!! 
